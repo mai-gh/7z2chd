@@ -13,6 +13,7 @@ I made this to use with MiSTer FPGA, but it could be useful for other emulation 
 
 $ cd /place/where/7z/files/are 
 $ mkdir chd
+$ cd chd
 $ wget https://raw.githubusercontent.com/mai-gh/7z2chd/main/7z2chd.sh
 $ chmod +x 7z2chd.sh
 $ ./7z2chd.sh
