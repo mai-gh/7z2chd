@@ -6,6 +6,8 @@
 
 I made this to use with MiSTer FPGA, but it could be useful for other emulation set-ups.
 
+It assumes you are running gnu / linux with bash, 7z, and chdman.
+
 #### Usage:
 
 ```
